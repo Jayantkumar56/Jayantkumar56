@@ -51,6 +51,6 @@ I enjoy exploring graphics systems, diving deep into rendering techniques, and p
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jayant%20Kumar%20Singh-blue?logo=linkedin)](https://www.linkedin.com/in/jayant-kumar-singh-ba3b33267/)  
-[![Email](https://img.shields.io/badge/Email-jayantkumar.dev%40gmail.com-red?logo=gmail)](mailto:jayantkumar.dev@gmail.com)  
-[![Blog](https://img.shields.io/badge/Blog-Quirk%20DevLogs-blue?logo=githubpages)](https://jayantkumar56.github.io/Quirk-Blog/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jayant%20Kumar%20Singh-blue?logo=linkedin)](https://www.linkedin.com/in/jayant-kumar-singh-ba3b33267/)   [![Email](https://img.shields.io/badge/Email-jayantkumar.dev%40gmail.com-red?logo=gmail)](mailto:jayantkumar.dev@gmail.com)   [![Blog](https://img.shields.io/badge/Blog-Quirk%20DevLogs-blue?logo=githubpages)](https://jayantkumar56.github.io/Quirk-Blog/)  
+
+
