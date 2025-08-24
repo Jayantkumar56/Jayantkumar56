@@ -18,7 +18,7 @@ I enjoy exploring graphics systems, diving deep into rendering techniques, and p
 <td width="50%" valign="top" align="center">
 
 <a href="https://jayantkumar56.github.io/Quirk-Blog/Blogs-And-Insights/Compile-Time-String.html">
-  <img src="https://github.com/user-attachments/assets/d2618d54-f541-4624-9e49-e53f4b535a3e" alt="Strings as Template Parameters in C++ — A Compile-Time Guide" width="100%">
+  <img src="./res/latest-blog.png" alt="Strings as Template Parameters in C++ — A Compile-Time Guide" width="100%">
   <br>
   📖 <b>Latest Blog: Strings as Template Parameters in C++ — A Compile-Time Guide</b>
 </a>
@@ -27,7 +27,7 @@ I enjoy exploring graphics systems, diving deep into rendering techniques, and p
 <td width="50%" valign="top" align="center">
 
 <a href="https://jayantkumar56.github.io/Quirk-Blog/">
-  <img src="https://github.com/user-attachments/assets/6bbae524-1b33-42ab-9cc2-7ad17ea83666" alt="Quirk DevLogs" width="100%">
+  <img src="./res/quirk-blog.png" alt="Quirk DevLogs" width="100%">
   <br>
   🌐 <b>Explore more at: Quirk DevLogs</b>
 </a>
