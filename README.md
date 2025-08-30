@@ -18,9 +18,9 @@ I enjoy exploring graphics systems, diving deep into rendering techniques, and p
 <td width="50%" valign="top" align="center">
 
 <a href="https://jayantkumar56.github.io/Quirk-Blog/Blogs-And-Insights/TypeLists.html">
-  <img src="./res/latest-blog.png" alt="Strings as Template Parameters in C++ — A Compile-Time Guide" width="100%">
+  <img src="./res/latest-blog.png" alt="TypeLists: A Deep Dive into C++ Meta-Programming " width="100%">
   <br>
-  📖 <b>Latest Blog: Strings as Template Parameters in C++ — A Compile-Time Guide</b>
+  📖 <b>Latest Blog: TypeLists: A Deep Dive into C++ Meta-Programming </b>
 </a>
 
 </td>
