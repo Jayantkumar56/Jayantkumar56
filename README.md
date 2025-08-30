@@ -17,7 +17,7 @@ I enjoy exploring graphics systems, diving deep into rendering techniques, and p
 <tr>
 <td width="50%" valign="top" align="center">
 
-<a href="https://jayantkumar56.github.io/Quirk-Blog/Blogs-And-Insights/Compile-Time-String.html">
+<a href="https://jayantkumar56.github.io/Quirk-Blog/Blogs-And-Insights/TypeLists.html">
   <img src="./res/latest-blog.png" alt="Strings as Template Parameters in C++ — A Compile-Time Guide" width="100%">
   <br>
   📖 <b>Latest Blog: Strings as Template Parameters in C++ — A Compile-Time Guide</b>
