@@ -3,10 +3,10 @@
 I’m a passionate **C++ developer** exploring **game engines, graphics programming, and compile-time metaprogramming**.  
 I enjoy solving deep technical challenges, building systems from scratch, and sharing what I learn along the way.  
 
-💡 Mostly, I work on:
-- 🚀 **[Quirk Engine](https://github.com/Jayantkumar56/Quirk)** — a C++ game engine to learn and grow.  
-- ✍️ **[Quirk DevLogs](https://jayantkumar56.github.io/Quirk-Blog/)** — my blog on C++, graphics, and engine deep dives.  
-- ⚙️ **[QkTraits](https://github.com/Jayantkumar56/QkTraits)** — a modern C++ header-only library for type traits and utilities.
+Mostly, I work on:
+- **[Quirk Engine](https://github.com/Jayantkumar56/Quirk)** — a C++ game engine to learn and grow.  
+- **[Quirk DevLogs](https://jayantkumar56.github.io/Quirk-Blog/)** — my blog on C++, graphics, and engine deep dives.  
+- **[QkTraits](https://github.com/Jayantkumar56/QkTraits)** — a modern C++ header-only library for type traits and utilities.
   
 I enjoy exploring graphics systems, diving deep into rendering techniques, and pushing the boundaries of compile-time C++ programming.
 
@@ -39,14 +39,9 @@ I enjoy exploring graphics systems, diving deep into rendering techniques, and p
 ---
 
 ## 📌 Featured Projects
-- 🎮 [**Quirk**](https://github.com/Jayantkumar56/Quirk) — Game engine project in C++  
-- ⚙️ [**QkTraits**](https://github.com/Jayantkumar56/QkTraits) — Modern C++ header-only library for type traits and utilities  
-- 🌍 [**Procedural Terrain**](https://github.com/Jayantkumar56/Procedural-Terrain) — Infinite terrain in Unity  
-
----
-
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayantkumar56&layout=compact&theme=dark&hide_border=true)
+- [**Quirk**](https://github.com/Jayantkumar56/Quirk) — Game engine project in C++  
+- [**QkTraits**](https://github.com/Jayantkumar56/QkTraits) — Modern C++ header-only library for type traits and utilities  
+- [**Procedural Terrain**](https://github.com/Jayantkumar56/Procedural-Terrain) — Infinite terrain in Unity  
 
 ---
 
